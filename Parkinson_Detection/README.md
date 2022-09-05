@@ -4,7 +4,7 @@
 
 This Project is a group work with [Amirhossein Mesbah](https://github.com/amirhosein-mesbah). in this project we used signals of speech data for a binary classification task to check if the person to whom the sound belongs has Parkinson's disease or not.  
 
-The data used in this project is related to an article with the following title from Jefferson S.Almeida et al:
+The data used in this project is related to an article with the following title by Jefferson S.Almeida et al:
 
 "Detecting Parkinson’s disease with sustained phonation and speech signals using 
 machine learning techniques"
