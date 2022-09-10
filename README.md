@@ -6,6 +6,6 @@ This repository contains my Machine Learning Projects during University and the 
 ## List of Contents
 
 ### Parkinson Detection
-- [Parkinson_Detection](https://github.com/zaha2020/Machine_Learning/tree/main/Parkinson_Detection)
+- [Detecting Parkinson disease using signals of speech data with ensemble learning](https://github.com/zaha2020/Machine_Learning/tree/main/Parkinson_Detection)
 
 
