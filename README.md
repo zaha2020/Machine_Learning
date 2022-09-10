@@ -5,7 +5,7 @@ This repository contains my Machine Learning Projects during University and the 
 
 ## List of Contents
 
-### Social Networks Analysis
+### Parkinson Detection
 - [Parkinson_Detection](https://github.com/zaha2020/Machine_Learning/tree/main/Parkinson_Detection)
 
 
